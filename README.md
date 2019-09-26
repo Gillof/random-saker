@@ -1,3 +1,3 @@
 # random-saker
 kul
-nu ändrade jag 2019-09-26
+nu ändrade jag 2019-09-26 igens
